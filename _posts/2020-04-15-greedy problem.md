@@ -68,8 +68,12 @@
 
 ---
 
-#include<stdio.h>
 
+
+
+
+```c
+#include<stdio.h>
 #include<stdlib.h>
 
 int min2(int a[],int n)
@@ -109,4 +113,8 @@ printf("%.1lf",(p+j)*1.1);   //소수 첫째짜리까지 출력하라고 했으�
 return 0;
 
 }
+
+```
+
+
 
