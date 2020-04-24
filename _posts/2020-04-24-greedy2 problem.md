@@ -1,6 +1,6 @@
 ---
-layout:single
-title: [과제] 그리디 알고리즘
+layout: single
+title: "[과제] 그리디 알고리즘"
 date:2020-04-24
 ---
 
