@@ -127,3 +127,4 @@ return 0;
 출처 [LINK keyword][https://www.codeup.kr/problem.php?id=2001]
 
 (코드업 문제중에 그리디알고리즘 기법으로 풀 수 있는문제 2001번)
+
