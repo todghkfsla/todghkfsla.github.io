@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title: "bin packing(통 채우기)"
 date:   2020-03-27 11:07:30 +0900
 categories: jekyll 
 ---
