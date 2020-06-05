@@ -52,7 +52,7 @@ x랑 y값을 무작위로 받은뒤 if문에서 판단을 해서 원내부면 �
 
 그다음에 pi 값을 계산해주는 식이다. 
 
-![image-20200601172518711](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200601172518711.png)
+![1231231](https://user-images.githubusercontent.com/62733873/83391516-8bda1e80-a42e-11ea-8dd3-e3d5b0ca8bcd.PNG)
 
 
 
