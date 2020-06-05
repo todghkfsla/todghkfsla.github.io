@@ -11,7 +11,8 @@ categories: jekyll
 
 
 
-![image-20200605123947772](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200605123947772.png)
+![image](https://user-images.githubusercontent.com/62733873/83838253-9ef13500-a733-11ea-904b-bdd3628dbcaf.png)
+
 
 그림으로 본다면 이런형태일것이다(그림은 알기쉬운 알고리즘 273쪽 그림)
 
