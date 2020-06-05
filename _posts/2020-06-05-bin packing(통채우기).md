@@ -11,7 +11,8 @@ categories: jekyll
 
 
 
-![image-20200605123947772](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200605123947772.png)
+![image](https://user-images.githubusercontent.com/62733873/83838253-9ef13500-a733-11ea-904b-bdd3628dbcaf.png)
+
 
 그림으로 본다면 이런형태일것이다(그림은 알기쉬운 알고리즘 273쪽 그림)
 
@@ -51,7 +52,8 @@ int main(void)
 
 실행결과는 이렇게 나온다 (교수님이 이런 결과를 원한건지는 몰라서 만약에 이 의도가 아니었다면 점수 안주셔도 됩니다.)
 
-![image-20200605124447993](C:\Users\장석빈\AppData\Roaming\Typora\typora-user-images\image-20200605124447993.png)
+![image](https://user-images.githubusercontent.com/62733873/83838185-75d0a480-a733-11ea-8ee2-bbc1e192666f.png)
+
 
 이러면  0번째 통에는 7만 들어가고
 
